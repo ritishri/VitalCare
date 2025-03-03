@@ -1,4 +1,4 @@
-# 🏥 Doctor Appointment Booking System
+# 🏥 VitalCare
 
 A full-stack **doctor appointment booking system** that allows users to find doctors based on specialization, schedule appointments, and make secure payments. It includes separate dashboards for **patients, doctors, and administrators** to ensure efficient appointment management.
 
@@ -11,11 +11,13 @@ A full-stack **doctor appointment booking system** that allows users to find doc
 - Make secure payments via **Razorpay**.
 
 ### 🩺 **Doctor Panel**
+- Use login
 - Edit profile information.
 - View scheduled appointments and earnings.
 - Mark appointments as **completed** or **canceled**.
 
 ### 🔧 **Admin Panel**
+- Use login
 - Add and manage doctor profiles.
 - View all doctors and their availability status.
 - Manage all appointments and doctor listings.
@@ -33,10 +35,8 @@ A full-stack **doctor appointment booking system** that allows users to find doc
 ## 🚀 Getting Started
 
 ### 🔹 **Installation**
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/doctor-appointment-system.git
-   cd doctor-appointment-system
+    Clone the repository:
+   git clone [https://github.com/ritishri/VitalCare.git]
 
 ## Install dependencies
 # Frontend
